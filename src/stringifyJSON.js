@@ -29,7 +29,7 @@ var stringifyObject = function(object) {
 };
 
 var stringifyJSON = function(obj) {
-  // your code goes here
+  // my code goes here
 
   if (Array.isArray(obj)) {
     return stringifyArray(obj);

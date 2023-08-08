@@ -3,7 +3,7 @@
 
 // but you're not, so you'll write it from scratch:
 var parseJSON = function(json) {
-  // your code goes here
+  // my code goes here
 
 
   // The index of the current character

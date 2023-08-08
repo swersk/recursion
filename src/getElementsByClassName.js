@@ -5,7 +5,7 @@
 
 // But instead we're going to implement it from scratch:
 var getElementsByClassName = function(className, element) {
-  // your code here
+  // my code here
 
   element = element || document.body;
   var results = [];
