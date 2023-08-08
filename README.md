@@ -26,7 +26,7 @@ The output for `eat(['soup', 'potatoes', 'fish'])` illustrated the step-by-step 
 ## Fixing Broken Tests
 An additional layer of complexity was the broken test suite. My objective was not only to understand and fix the tests but also to make them pass by implementing the missing functionalities. This required me to become familiar with two key testing tools: Mocha and Chai.
 
-Mocha: A test framework that I used to structure the test files. It ran the tests and reported the results.
+Mocha: A test framework that I used to structure the test files. It ran the tests and reported the results.</br>
 Chai: This was an assertion library that enriched the expressiveness of my tests and made the error messages more insightful.
 It was crucial for me not to reference the previous test suite. Instead, I relied heavily on the Mocha and Chai documentation to navigate through the exercise.
 
