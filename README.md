@@ -3,7 +3,7 @@
 >During this exercise, I delved deep into the concept of recursion—a technique where a function calls itself in order to solve problems.
 
 ## The Challenge
-For the sprint, I was tasked with reimplementing certain parts of the browser that involve recursion. The trick? Not using any built-in shortcuts or functionalities that would make the problem trivial. This exercise reminded me of "polyfills"—a term used to describe reimplementing new browser functionalities in older browsers.
+I reemplemented certain parts of the browser that involve recursion. The trick? Not using any built-in shortcuts or functionalities that would make the problem trivial. This exercise reminded me of "polyfills"—a term used to describe reimplementing new browser functionalities in older browsers.
 
 
 ## What I Learned
