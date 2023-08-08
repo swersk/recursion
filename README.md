@@ -30,6 +30,7 @@ Mocha: A test framework that I used to structure the test files. It ran the test
 Chai: This was an assertion library that enriched the expressiveness of my tests and made the error messages more insightful.
 It was crucial for me not to reference the previous test suite. Instead, I relied heavily on the Mocha and Chai documentation to navigate through the exercise.
 
+
 ## Bare Minimum Requirements
 1. Replacing stringifyJSON with my own function in src/stringifyJSON.js and ensuring the specs passed.</br>
 2. Implementing getElementsByClassName in src/getElementsByClassName.js and, again, ensuring the specs passed. I made use of document.body, element.childNodes, and element.classList to accomplish this.
