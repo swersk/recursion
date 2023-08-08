@@ -2,6 +2,10 @@
 
 >During this exercise, I delved deep into the concept of recursion—a technique where a function calls itself in order to solve problems.
 
+## The Challenge
+For the sprint, I was tasked with reimplementing certain parts of the browser that involve recursion. The trick? Not using any built-in shortcuts or functionalities that would make the problem trivial. This exercise reminded me of "polyfills"—a term used to describe reimplementing new browser functionalities in older browsers.
+
+
 ## What I Learned
 One of the core takeaways was understanding how smaller parts of a problem can reflect the larger problem as a whole when using recursion. This became evident when I dissected the function eat:
 
@@ -18,9 +22,6 @@ var eat = function(meal){
 ```
 
 The output for `eat(['soup', 'potatoes', 'fish'])` illustrated the step-by-step recursive processing of the array until it was empty.
-
-## The Challenge
-For the sprint, I was tasked with reimplementing certain parts of the browser that involve recursion. The trick? Not using any built-in shortcuts or functionalities that would make the problem trivial. This exercise reminded me of "polyfills"—a term used to describe reimplementing new browser functionalities in older browsers.
 
 ## Fixing Broken Tests
 An additional layer of complexity was the broken test suite. My objective was not only to understand and fix the tests but also to make them pass by implementing the missing functionalities. This required me to become familiar with two key testing tools: Mocha and Chai.
